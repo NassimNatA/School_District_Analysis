@@ -35,3 +35,6 @@ A summary of the deliverables detailing the changes in the data after modifying 
 - District summary 
 
 ![image2](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.37.24%20PM.png)
+
+##Summary
+After modifying the math and recordings scores for Thomas High School, it is evident that the district-wide analysis was modified by excluding the incorrect scores from THS. 
