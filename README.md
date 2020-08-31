@@ -14,11 +14,12 @@ The purpose of this analysis is to replace the math and reading scores for Thoma
 # Results 
 A summary of the deliverables detailing the changes in the data after modifying the incorrect data is shown below: 
 
-- Thomas High School Summary of Scores and Budget
 - The average reading score received by students in each grade level at each school
 
 ![image1](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.54.27%20PM.png)
 - Scores by School Size
+
+![image](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.58.41%20PM.png)
 - School performance based on the type of school
 
 ![image1](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.33.00%20PM.png)
