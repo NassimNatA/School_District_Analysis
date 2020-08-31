@@ -27,6 +27,9 @@ A summary of the deliverables detailing the changes in the data after modifying 
 ![image2](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.32.33%20PM.png)
 ![image2](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.32.51%20PM.png)
 - The average math score received by students in each grade level at each school
+
 ![image2](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.33.00%20PM.png)
+
 - District summary 
+
 ![image2](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.37.24%20PM.png)
