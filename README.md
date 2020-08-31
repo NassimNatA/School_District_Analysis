@@ -16,6 +16,7 @@ A summary of the deliverables detailing the changes in the data after modifying 
 
 - Thomas High School Summary of Scores and Budget
 - The average reading score received by students in each grade level at each school
+![image1](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.54.27%20PM.png)
 - Scores by School Spending 
 - Scores by School Size
 - School performance based on the type of school
