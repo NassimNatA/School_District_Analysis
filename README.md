@@ -14,12 +14,19 @@ The purpose of this analysis is to replace the math and reading scores for Thoma
 # Results 
 A summary of the deliverables detailing the changes in the data after modifying the incorrect data is shown below: 
 
-- District summary 
-- Summary of Total School Budget and the Per Student Budget
 - Thomas High School Summary of Scores and Budget
-- Top 5 and bottom 5 performing schools 
-- The average math score received by students in each grade level at each school
 - The average reading score received by students in each grade level at each school
 - Scores by School Spending 
 - Scores by School Size
 - School performance based on the type of school
+
+![image1](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.33.00%20PM.png)
+- Summary of Total School Budget and the Per Student Budget
+![image2](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.32.20%20PM.png)
+- Top 5 and bottom 5 performing schools 
+![image2](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.32.33%20PM.png)
+![image2](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.32.51%20PM.png)
+- The average math score received by students in each grade level at each school
+![image2](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.33.00%20PM.png)
+- District summary 
+![image2](https://github.com/NassimNatA/School_District_Analysis/blob/master/Resources/Screen%20Shot%202020-08-30%20at%2010.37.24%20PM.png)
